@@ -1,1 +1,2 @@
 Um documento com o mesmo nome do outro branch, para ver se dá o conflito
+
