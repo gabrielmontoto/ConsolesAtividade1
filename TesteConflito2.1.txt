@@ -1,1 +1,2 @@
 o nome é o mesmo, mas agora o conteúdo desse bloco de notas é diferente
+testando o conflito pela segunda vez
